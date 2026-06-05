@@ -1,0 +1,8 @@
+Main Color: ff128c
+Secondary: 242424
+3rdary: FFFFFF
+
+Background Color: 242424
+
+Font: Nunito
+Font Family: Black
